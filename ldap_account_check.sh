@@ -2,9 +2,13 @@
 
 ##########################################################################################
 #
-# LDAP Account Check (ldap_account_check.sh)
+# LDAP Account Check (ldap_account_check.sh) (c) by Jack Szwergold
 #
-# Programming: Jack Szwergold
+# LDAP Account Check is licensed under a
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+#
+# You should have received a copy of the license along with this
+# work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>. 
 #
 # Created: 2014-07-03, js
 # Version: 2014-07-03, js: creation
